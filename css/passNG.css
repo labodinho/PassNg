@@ -1,0 +1,67 @@
+body html{
+    font-family: 'Roboto',sans-serif; 
+}
+
+
+.bkg-color{
+    background-color: #86A51B !important
+}
+
+
+.bkg{
+    background-image: url(../ImageTech/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.colour{
+    color: #86A51B;
+}
+
+
+.bkg-pad{
+    padding-bottom: 20vh;
+}
+
+
+a{
+    text-decoration: none !important;
+}
+
+.bkg-padtop{
+    padding-top: 10vh;
+}
+
+.btn-colour{
+    background-color:  #86A51B !important;
+    color: white !important;
+}
+
+.main2-colour{
+    background-color: #F8FEE2;
+}
+
+
+.tell{
+    background-color: #86A51B !important;
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+/* FOOTER */
+
+footer{
+    background-color: #2D3E50;
+}
+
+.link{
+    position: absolute;
+    right: 5px;
+    top: 6px;
+    background-color: #86A51B;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+}
+
